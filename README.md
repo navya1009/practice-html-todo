@@ -85,3 +85,6 @@ Enhance animations for task addition and completion.
 
 License
 This project is open-source and available under the MIT License.
+
+
+⚠️ This is a practice project created while learning web development fundamentals.
